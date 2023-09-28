@@ -1,2 +1,2 @@
 This is file2.txt
-This file was added to local repository
+This file was added in out local git repo
